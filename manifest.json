@@ -1,16 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Pocket Merchant Pack",
-    "description": "Easier Villager management for Mobile Players!",
-    "uuid": "8b2e3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "name": "Double Jump Ability",
+    "description": "Lompat dua kali di udara! Khusus buat lari dari Creeper.",
+    "uuid": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+      "uuid": "z9y8x7w6-v5u4-t3s2-r1q0-p9o8n7m6l5k4",
       "version": [1, 0, 0]
     }
   ]
